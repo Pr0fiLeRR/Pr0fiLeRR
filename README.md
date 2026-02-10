@@ -1,6 +1,6 @@
 # Igor Oliveira <br/><a href="https://www.linkedin.com/in/oliveirai">Cybersecurity Professional</a> | <a href="https://detections.ai/user/Pr0fiLeRR">Detections AI Contributor</a>
 
-### <u>Detection as Code Projects</u>
+### 🕵️ <u>Detection Engineering Projects</u>
 
 - Incident Automation
     - [After-Hours Logon Activity](https://github.com/Pr0fiLeRR/after-hours-logon-activity)
@@ -14,7 +14,7 @@
     - [Email URL Interaction](https://github.com/Pr0fiLeRR/url-interaction)
     - [Subject tab](https://github.com/Pr0fiLeRR/email-subject-dashboard)
 
-### <u>Front-End Projects</u>
+### 💻 <u>Front-End Projects</u>
 
 - HTML | CSS | Javascript
     - [My personal Website](https://github.com/Pr0fiLeRR/portfolio)
