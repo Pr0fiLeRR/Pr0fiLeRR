@@ -3,6 +3,7 @@
 ### 🕵️ <u>Detection Engineering Projects</u>
 
 - Incident Automation
+    - [Firewall Automation Configuration Change Monitoring](https://github.com/Pr0fiLeRR/Firewall-Automated-Configuration-Change-Monitoring)
     - [After-Hours Logon Activity](https://github.com/Pr0fiLeRR/after-hours-logon-activity)
 
 - Threat Hunting with KQL 
