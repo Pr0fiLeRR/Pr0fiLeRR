@@ -5,6 +5,7 @@
 - Incident Automation
     - [Firewall Automation Configuration Change Monitoring](https://github.com/Pr0fiLeRR/Firewall-Automated-Configuration-Change-Monitoring)
     - [After-Hours Logon Activity](https://github.com/Pr0fiLeRR/after-hours-logon-activity)
+    - [Firewall Daily Backup Checker](https://github.com/Pr0fiLeRR/Firewall-Daily-Backup-Checker)
 
 - Threat Hunting with KQL 
     - [Firewall Surrounding Traffic Investigation](https://github.com/Pr0fiLeRR/firewall-surrounding-traffic-investigation)
