@@ -1,10 +1,13 @@
 # Igor Oliveira <br/><a href="https://www.linkedin.com/in/oliveirai">Cybersecurity Professional</a> | <a href="https://detections.ai/user/Pr0fiLeRR">Detections AI Contributor</a>
 
-### 🕵️ <u>Detection Engineering Projects</u>
+### 🕵️ <u>Cybersecurity KQL Projects</u>
+
+- Detection as Code / Detection Engineering
+    - [Successful Malicious HTTPS Request](https://github.com/Pr0fiLeRR/successful-malicious-https-request)
+    - [After-Hours Logon Activity](https://github.com/Pr0fiLeRR/after-hours-logon-activity)
 
 - Incident Automation
     - [Firewall Automation Configuration Change Monitoring](https://github.com/Pr0fiLeRR/Firewall-Automated-Configuration-Change-Monitoring)
-    - [After-Hours Logon Activity](https://github.com/Pr0fiLeRR/after-hours-logon-activity)
     - [Firewall Daily Backup Checker](https://github.com/Pr0fiLeRR/Firewall-Daily-Backup-Checker)
 
 - Threat Hunting with KQL 
