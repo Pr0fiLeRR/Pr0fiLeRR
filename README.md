@@ -1,6 +1,8 @@
 # Igor Oliveira <br/><a href="https://www.linkedin.com/in/oliveirai">Cybersecurity Professional</a> | <a href="https://detections.ai/user/Pr0fiLeRR">Detections AI Contributor</a>
 
-### 🕵️ <u>Cybersecurity KQL Projects</u>
+### 🕵️ Cybersecurity Projects
+
+#### <ins>KQL Scripts</ins>
 
 - Detection as Code / Detection Engineering
     - [Successful Malicious HTTPS Request](https://github.com/Pr0fiLeRR/successful-malicious-https-request)
@@ -19,7 +21,12 @@
     - [Email URL Interaction](https://github.com/Pr0fiLeRR/url-interaction)
     - [Subject tab](https://github.com/Pr0fiLeRR/email-subject-dashboard)
 
-### 💻 <u>Front-End Projects</u>
+#### <ins>Sigma Rules</ins>
+
+- Detection as Code / Detection Engineering
+    - [Detect Suspicious HTTP Requests](https://detections.ai/rules/019c734c-ddea-75af-96ec-7c398a2a3c08)
+
+### 💻 Front-End Projects
 
 - HTML | CSS | Javascript
     - [My personal Website](https://github.com/Pr0fiLeRR/portfolio)
