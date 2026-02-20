@@ -6,6 +6,7 @@
 
 - Detection as Code / Detection Engineering
     - [Successful Malicious HTTPS Request](https://github.com/Pr0fiLeRR/successful-malicious-https-request)
+        - [Sigma Rule version](https://github.com/Pr0fiLeRR/sigma_rule_detection-of-suspicious-https-request)
     - [After-Hours Logon Activity](https://github.com/Pr0fiLeRR/after-hours-logon-activity)
 
 - Incident Automation
