@@ -5,6 +5,7 @@
 #### <ins>KQL Scripts</ins>
 
 - Detection as Code / Detection Engineering
+    - [Priority Account Protection Volume Analysis](https://github.com/Pr0fiLeRR/priority-account-protection-volume-analysis)
     - [Successful Malicious HTTPS Request](https://github.com/Pr0fiLeRR/successful-malicious-https-request)
         - [Sigma Rule version](https://github.com/Pr0fiLeRR/sigma_rule_detection-of-suspicious-https-request)
     - [After-Hours Logon Activity](https://github.com/Pr0fiLeRR/after-hours-logon-activity)
