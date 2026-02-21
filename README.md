@@ -1,6 +1,5 @@
-# Igor Oliveira <br/><a href="https://www.linkedin.com/in/oliveirai">Cybersecurity Professional</a> | <a href="https://detections.ai/user/Pr0fiLeRR">Detections AI Contributor</a>
-
 <a id="readme-top"></a>
+# Igor Oliveira <br/><a href="https://www.linkedin.com/in/oliveirai">Cybersecurity Professional</a> | <a href="https://detections.ai/user/Pr0fiLeRR">Detections AI Contributor</a>
 
 <!-- #### <ins>KQL Scripts</ins> -->
 
