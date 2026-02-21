@@ -49,7 +49,7 @@
 [Sigma-badge]: https://img.shields.io/badge/Sigma-%CF%83-blue
 [Sigma-url]: https://sigmahq.io/docs/basics/rules.html
 
-[Kusto-badge]: https://img.shields.io/badge/Kusto-Query-purple?logo=azure-data-explorer&style=flat-square
+[Kusto-badge]: https://img.shields.io/badge/Kusto-Query-red?logo=azure-data-explorer&style=flat-square
 [Kusto-url]: https://learn.microsoft.com/en-us/kusto/?view=microsoft-fabric
 
 [JavaScript-badge]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square
