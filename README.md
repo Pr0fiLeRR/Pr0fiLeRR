@@ -1,9 +1,10 @@
 # Igor Oliveira <br/><a href="https://www.linkedin.com/in/oliveirai">Cybersecurity Professional</a> | <a href="https://detections.ai/user/Pr0fiLeRR">Detections AI Contributor</a>
 
-### 🕵️ Cybersecurity Projects
+<a id="readme-top"></a>
 
-#### <ins>KQL Scripts</ins>
+<!-- #### <ins>KQL Scripts</ins> -->
 
+[![KQL][kusto-badge]][Kusto-url]
 - Detection as Code / Detection Engineering
     - [Priority Account Protection Volume Analysis](https://github.com/Pr0fiLeRR/priority-account-protection-volume-analysis)
     - [Successful Malicious HTTPS Request](https://github.com/Pr0fiLeRR/successful-malicious-https-request)
@@ -24,12 +25,18 @@
     - [Email URL Interaction](https://github.com/Pr0fiLeRR/url-interaction)
     - [Subject tab](https://github.com/Pr0fiLeRR/email-subject-dashboard)
 
-#### <ins>Sigma Rules</ins>
+<!-- #### <ins>Sigma Rules</ins> -->
 
+<hr/>
+
+[![Sigma][Sigma-badge]][Sigma-url]
 - Detection as Code / Detection Engineering
     - [Detect Suspicious HTTP Requests](https://detections.ai/rules/019c734c-ddea-75af-96ec-7c398a2a3c08)
 
-### 💻 Front-End Projects
+<hr/>
+
+<!-- ### 💻 Front-End Projects -->
+[![JS][JavaScript-badge]][JavaScript-url]
 
 - HTML | CSS | Javascript
     - [My personal Website](https://github.com/Pr0fiLeRR/portfolio)
@@ -38,4 +45,17 @@
     - [Pictures of Rio](https://github.com/Pr0fiLeRR/paraisos-brasileiros)
     - [Paradisiacal Images](https://github.com/Pr0fiLeRR/worldly-paradise/blob/master/README.md)
     - [Resume - HTML Version](https://pr0filerr.github.io/resume/)
-    
+
+<!-- MARKDOWN Links and Images -->
+[Sigma-badge]: https://img.shields.io/badge/Sigma-%CF%83-blue
+[Sigma-url]: https://sigmahq.io/docs/basics/rules.html
+
+[Kusto-badge]: https://img.shields.io/badge/Kusto-Query-purple?logo=azure-data-explorer&style=flat-square
+[Kusto-url]: https://learn.microsoft.com/en-us/kusto/?view=microsoft-fabric
+
+[JavaScript-badge]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square
+[JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+
+
+<p align="right">---| <a href="#readme-top">Back to top</a> |---</p>
