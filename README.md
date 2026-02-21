@@ -16,6 +16,7 @@
 
 - Threat Hunting with KQL 
     - [Firewall Surrounding Traffic Investigation](https://github.com/Pr0fiLeRR/firewall-surrounding-traffic-investigation)
+    - [Threat Hunting HTTPS Request](https://github.com/Pr0fiLeRR/threat-hunting-https-request)
 
 - Sentinel Dashboard
     - [Full Email Address tab](https://github.com/Pr0fiLeRR/full-email-address-dashboard)
