@@ -30,7 +30,8 @@
 
 [![Sigma][Sigma-badge]][Sigma-url]
 - Detection as Code / Detection Engineering
-    - [Detect Suspicious HTTP Requests](https://detections.ai/rules/019c734c-ddea-75af-96ec-7c398a2a3c08)
+    - [Detects Suspicious HTTP Requests](https://github.com/Pr0fiLeRR/sigma_rule_detection-of-suspicious-https-request)
+    - [Detects Interaction with Suspicious Attachment](https://github.com/Pr0fiLeRR/sigma-rule-detection-of-attachment-interaction)
 
 <hr/>
 
