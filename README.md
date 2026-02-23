@@ -62,11 +62,12 @@
 
 <div align="center">
 
-| Certification | Issuer |
+| CERTIFICATION | ISSUER |
 |:---:|:---:|
 | CySA+ | CompTIA |
 | Security+ | CompTIA |
 | BTL1 | Security Blue Team |
+| Network+ | CompTIA |
 
 </div>
 
@@ -74,7 +75,7 @@
 
 <div align="center">
 
-| Course | School |
+| COURSE | SCHOOL |
 |:---:|:---:|
 | **A.A. Applied Technology** | BYU-Idaho |
 
