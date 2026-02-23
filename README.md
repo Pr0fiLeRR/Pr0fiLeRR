@@ -41,7 +41,7 @@
 [![Sigma][Sigma-badge]][Sigma-url]
 - Detection as Code / Detection Engineering
     - [Detects Suspicious HTTP Requests](https://github.com/Pr0fiLeRR/sigma_rule_detection-of-suspicious-https-request)
-    - [Detects Interaction with Suspicious Attachment](https://github.com/Pr0fiLeRR/sigma-rule-detection-of-attachment-interaction)
+    - [Detects Interaction with Suspicious Attachment](https://github.com/Pr0fiLeRR/attachment-interaction/blob/master/attachment-interaction.yml)
 
 ---
 
