@@ -1,6 +1,17 @@
 <a id="readme-top"></a>
-# Igor Oliveira <br/><a href="https://www.linkedin.com/in/oliveirai">Cybersecurity Professional</a> | <a href="https://detections.ai/user/Pr0fiLeRR">Detections AI Contributor</a>
+<div align='center'>
 
+<h1>Igor Oliveira</h1>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliveirai/)
+[![Detections.AI](https://img.shields.io/badge/Detections.AI-00C853?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMCAyMGwtMS40LTEuNEMzLjEgMTMuNSAxLjUgOS42IDEuNSA3YzAtMi42IDIuNC01IDUtNSAyLjA0IDAgMy41IDEuMTQgNC41IDIuMzIgMS0xLjE4IDIuNDYtMi4zMiA0LjUtMi4zMiAyLjYgMCA1IDIuNCA1IDUgMCAyLjYtMS42IDYuNS03LjEgMTEuNkwxMCAyMHoiLz48L3N2Zz4=&logoColor=white)](https://detections.ai/user/Pr0fiLeRR)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/oliveirai)
+
+### Security Analyst • Detection Engineer • Cyber Threat Hunter
+
+</div>
+
+---
 <!-- #### <ins>KQL Scripts</ins> -->
 
 [![KQL][kusto-badge]][Kusto-url]
@@ -25,14 +36,14 @@
 
 <!-- #### <ins>Sigma Rules</ins> -->
 
-<hr/>
+---
 
 [![Sigma][Sigma-badge]][Sigma-url]
 - Detection as Code / Detection Engineering
     - [Detects Suspicious HTTP Requests](https://github.com/Pr0fiLeRR/sigma_rule_detection-of-suspicious-https-request)
     - [Detects Interaction with Suspicious Attachment](https://github.com/Pr0fiLeRR/sigma-rule-detection-of-attachment-interaction)
 
-<hr/>
+---
 
 <!-- ### 💻 Front-End Projects -->
 [![JS][JavaScript-badge]][JavaScript-url]
@@ -44,6 +55,30 @@
     - [Pictures of Rio](https://github.com/Pr0fiLeRR/paraisos-brasileiros)
     - [Paradisiacal Images](https://github.com/Pr0fiLeRR/worldly-paradise/blob/master/README.md)
     - [Resume - HTML Version](https://pr0filerr.github.io/resume/)
+
+---
+
+## Certifications
+
+<div align="center">
+
+| Certification | Issuer |
+|:---:|:---:|
+| CySA+ | CompTIA |
+| Security+ | CompTIA |
+| BTL1 | Security Blue Team |
+
+</div>
+
+## Education
+
+<div align="center">
+
+| Course | School |
+|:---:|:---:|
+| **A.A. Applied Technology** | BYU-Idaho |
+
+</div>
 
 <!-- MARKDOWN Links and Images -->
 [Sigma-badge]: https://img.shields.io/badge/Sigma-%CF%83-blue
