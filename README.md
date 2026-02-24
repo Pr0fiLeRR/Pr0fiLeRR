@@ -40,6 +40,7 @@
 
 [![Sigma][Sigma-badge]][Sigma-url]
 - Detection as Code / Detection Engineering
+    - [Detects URL Interaction in Email](https://github.com/Pr0fiLeRR/url-interaction/blob/master/email-url-interaction.yml)
     - [Detects Suspicious HTTP Requests](https://github.com/Pr0fiLeRR/successful-malicious-https-request/blob/master/Detect_Suspicious_HTTP_Requests.yml)
     - [Detects Interaction with Suspicious Attachment](https://github.com/Pr0fiLeRR/attachment-interaction/blob/master/attachment-interaction.yml)
 
