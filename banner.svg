@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
   <style>
     /* RGB(185, 185, 185) for all text */
@@ -19,7 +20,7 @@
     </mask>
   </defs>
 
-  <rect width="100%" height="100%" fill="rgb(50, 50, 50)" />
+  <rect width="100%" height="100%" fill="rgb(25, 25, 25)" />
 
   <g id="global_scene">
     <g id="shuttle">
