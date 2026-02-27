@@ -1,0 +1,85 @@
+<svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    /* RGB(185, 185, 185) for all text */
+    .text-main { font-family: 'Consolas', 'Monaco', monospace; font-weight: bold; font-size: 20px; fill: rgb(185, 185, 185); }
+    .text-name { font-family: 'Segoe UI', sans-serif; font-weight: bold; font-size: 32px; fill: rgb(185, 185, 185); }
+    .text-secondary { font-family: 'Consolas', monospace; font-size: 16px; fill: rgb(185, 185, 185); }
+    
+    /* Pure White (#FFFFFF) for the scanning lines at 4px */
+    .scanner { stroke: #FFFFFF; stroke-width: 4px; }
+  </style>
+
+  <defs>
+    <mask id="nameMask">
+      <text x="400" y="60" text-anchor="middle" class="text-name" fill="white">
+        Igor Oliveira
+        <animate attributeName="y" from="110" to="60" dur="1s" begin="nameBlink.end" fill="freeze" />
+        <animate attributeName="y" to="110" dur="0.01s" begin="loopAnchor.begin" fill="freeze" />
+      </text>
+    </mask>
+  </defs>
+
+  <rect width="100%" height="100%" fill="rgb(50, 50, 50)" />
+
+  <g id="global_scene">
+    <g id="shuttle">
+      <text x="400" y="90" class="text-main" text-anchor="middle" opacity="0">
+        Security Analyst
+        <animateTransform attributeName="transform" type="translate" values="-600,0; -80,0; 80,0; 600,0" keyTimes="0; 0.2; 0.8; 1" dur="5s" begin="0s; outFade.end + 1s" id="loopAnchor" />
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="5s" begin="loopAnchor.begin" />
+      </text>
+      <text x="400" y="115" class="text-main" text-anchor="middle" opacity="0">
+        Detection Engineer
+        <animateTransform attributeName="transform" type="translate" values="600,0; 80,0; -80,0; -600,0" keyTimes="0; 0.2; 0.8; 1" dur="5s" begin="loopAnchor.begin" />
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="5s" begin="loopAnchor.begin" />
+      </text>
+      <text x="400" y="140" class="text-main" text-anchor="middle" opacity="0">
+        Cyber Threat Hunter
+        <animateTransform attributeName="transform" type="translate" values="-600,0; -80,0; 80,0; 600,0" keyTimes="0; 0.2; 0.8; 1" dur="5s" begin="loopAnchor.begin" />
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="5s" begin="loopAnchor.begin" />
+      </text>
+    </g>
+
+    <g id="name_section">
+      <text x="400" y="110" text-anchor="middle" class="text-name" opacity="0">
+        Igor Oliveira
+        <animate attributeName="opacity" from="0" to="1" dur="1.5s" begin="loopAnchor.end + 0.5s" id="nameFade" fill="freeze" />
+        <animate attributeName="opacity" values="1; 0; 1; 0; 1" keyTimes="0; 0.25; 0.5; 0.75; 1" dur="0.2s" begin="nameFade.end" id="nameBlink" fill="freeze" />
+        <animate attributeName="opacity" to="0" dur="0.01s" begin="loopAnchor.begin" fill="freeze" />
+        <animate attributeName="y" from="110" to="60" dur="1s" begin="nameBlink.end" id="nameMove" fill="freeze" />
+        <animate attributeName="y" to="110" dur="0.01s" begin="loopAnchor.begin" fill="freeze" />
+      </text>
+
+      <g mask="url(#nameMask)">
+        <line x1="100%" y1="0" x2="110%" y2="100%" class="scanner">
+          <animate attributeName="x1" values="110%; -20%" dur="1.5s" begin="finalFade.end + 2s; finalFade.end + 6s" />
+          <animate attributeName="x2" values="120%; -10%" dur="1.5s" begin="finalFade.end + 2s; finalFade.end + 6s" />
+        </line>
+        <line x1="-10%" y1="0" x2="0%" y2="100%" class="scanner">
+          <animate attributeName="x1" values="-20%; 110%" dur="1.5s" begin="finalFade.end + 3s; finalFade.end + 7s" />
+          <animate attributeName="x2" values="-10%; 120%" dur="1.5s" begin="finalFade.end + 3s; finalFade.end + 7s" />
+        </line>
+      </g>
+    </g>
+
+    <g opacity="0" id="final_group">
+      <text x="400" y="100" text-anchor="middle" class="text-secondary">
+        Security Analyst
+        <animateTransform attributeName="transform" type="translate" from="-5,0" to="0,0" dur="1s" begin="nameMove.end" fill="freeze" />
+      </text>
+      <text x="400" y="125" text-anchor="middle" class="text-secondary">
+        Detection Engineer
+        <animateTransform attributeName="transform" type="translate" from="5,0" to="0,0" dur="1s" begin="nameMove.end" fill="freeze" />
+      </text>
+      <text x="400" y="150" text-anchor="middle" class="text-secondary">
+        Cyber Threat Hunter
+        <animateTransform attributeName="transform" type="translate" from="-5,0" to="0,0" dur="1s" begin="nameMove.end" fill="freeze" />
+      </text>
+      <animate attributeName="opacity" from="0" to="1" dur="1s" begin="nameMove.end" id="finalFade" fill="freeze" />
+      <animate attributeName="opacity" to="0" dur="0.01s" begin="loopAnchor.begin" fill="freeze" />
+    </g>
+
+    <animate attributeName="opacity" from="1" to="0" dur="1s" begin="finalFade.end + 10s" id="outFade" fill="freeze" />
+    <animate attributeName="opacity" to="1" dur="0.01s" begin="loopAnchor.begin" fill="freeze" />
+  </g>
+</svg>
