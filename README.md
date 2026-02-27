@@ -1,7 +1,8 @@
 <a id="readme-top"></a>
 <div align='center'>
 
-<h1>Igor Oliveira</h1>
+<!--<h1>Igor Oliveira</h1>-->
+![Igor Oliveira Banner](banner.svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliveirai/)
 [![Detections.AI](https://img.shields.io/badge/Detections.AI-00C853?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMCAyMGwtMS40LTEuNEMzLjEgMTMuNSAxLjUgOS42IDEuNSA3YzAtMi42IDIuNC01IDUtNSAyLjA0IDAgMy41IDEuMTQgNC41IDIuMzIgMS0xLjE4IDIuNDYtMi4zMiA0LjUtMi4zMiAyLjYgMCA1IDIuNCA1IDUgMCAyLjYtMS42IDYuNS03LjEgMTEuNkwxMCAyMHoiLz48L3N2Zz4=&logoColor=white)](https://detections.ai/user/Pr0fiLeRR)
