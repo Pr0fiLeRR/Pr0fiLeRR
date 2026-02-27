@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
   <style>
-    /* RGB(185, 185, 185) for all text */
     .text-main { font-family: 'Consolas', 'Monaco', monospace; font-weight: bold; font-size: 20px; fill: rgb(185, 185, 185); }
     .text-name { font-family: 'Segoe UI', sans-serif; font-weight: bold; font-size: 32px; fill: rgb(185, 185, 185); }
     .text-secondary { font-family: 'Consolas', monospace; font-size: 16px; fill: rgb(185, 185, 185); }
-    
-    /* Pure White (#FFFFFF) for the scanning lines at 4px */
     .scanner { stroke: #FFFFFF; stroke-width: 4px; }
+    .circuit { stroke: rgba(255,255,255,0.08); stroke-width: 1.2px; fill: none; }
+    .node { fill: rgba(255,255,255,0.12); }
   </style>
 
   <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(15, 32, 60);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(5, 10, 20);stop-opacity:1" />
+    </linearGradient>
+
     <mask id="nameMask">
       <text x="400" y="60" text-anchor="middle" class="text-name" fill="white">
         Igor Oliveira
@@ -20,7 +24,34 @@
     </mask>
   </defs>
 
-  <rect width="100%" height="100%" fill="rgb(25, 25, 25)" />
+  <rect width="100%" height="100%" fill="url(#bgGradient)" />
+
+  <g class="circuit-layer">
+    <path d="M0,20 L100,20 L130,50 L250,50" class="circuit" />
+    <path d="M0,30 L95,30 L125,60 L240,60" class="circuit" />
+    <path d="M0,40 L90,40 L120,70 L230,70" class="circuit" />
+    <circle cx="250" cy="50" r="2" class="node" />
+
+    <path d="M0,180 L150,180 L190,140 L190,100" class="circuit" />
+    <path d="M50,200 L50,160 L80,130 L150,130" class="circuit" />
+    <circle cx="150" cy="130" r="2" class="node" />
+    <circle cx="190" cy="100" r="2" class="node" />
+
+    <path d="M800,30 L700,30 L660,70 L550,70" class="circuit" />
+    <path d="M800,40 L705,40 L665,80 L560,80" class="circuit" />
+    <path d="M800,50 L710,50 L670,90 L570,90" class="circuit" />
+    <circle cx="550" cy="70" r="2" class="node" />
+
+    <path d="M800,170 L650,170 L600,120 L450,120" class="circuit" />
+    <path d="M750,200 L750,180 L700,130 L600,130" class="circuit" />
+    <path d="M680,200 L680,185 L640,145" class="circuit" />
+    <circle cx="450" cy="120" r="2" class="node" />
+
+    <path d="M300,0 L300,30 L330,60" class="circuit" />
+    <path d="M500,200 L500,170 L470,140" class="circuit" />
+    <path d="M200,0 L240,40" class="circuit" />
+    <path d="M600,0 L560,40" class="circuit" />
+  </g>
 
   <g id="global_scene">
     <g id="shuttle">
