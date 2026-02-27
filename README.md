@@ -2,6 +2,7 @@
 <div align='center'>
 
 <!--<h1>Igor Oliveira</h1>-->
+
 ![Igor Oliveira Banner](banner.svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliveirai/)
