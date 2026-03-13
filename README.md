@@ -82,7 +82,7 @@
 
 | COURSE | SCHOOL |
 |:---:|:---:|
-| **A.A. Applied Technology** | BYU-Idaho |
+| **A.A.S. Applied Technology** | BYU-Idaho |
 
 </div>
 
