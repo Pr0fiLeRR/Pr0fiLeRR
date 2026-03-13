@@ -5,7 +5,7 @@
 
 ![Igor Oliveira Banner](banner.svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliveirai/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliveirai/)
 [![Detections.AI](https://img.shields.io/badge/Detections.AI-00C853?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMCAyMGwtMS40LTEuNEMzLjEgMTMuNSAxLjUgOS42IDEuNSA3YzAtMi42IDIuNC01IDUtNSAyLjA0IDAgMy41IDEuMTQgNC41IDIuMzIgMS0xLjE4IDIuNDYtMi4zMiA0LjUtMi4zMiAyLjYgMCA1IDIuNCA1IDUgMCAyLjYtMS42IDYuNS03LjEgMTEuNkwxMCAyMHoiLz48L3N2Zz4=&logoColor=white)](https://detections.ai/user/Pr0fiLeRR)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/oliveirai)
 
@@ -49,9 +49,11 @@
 ---
 
 <!-- ### 💻 Front-End Projects -->
-[![JS][JavaScript-badge]][JavaScript-url]
+![HTML][html]
+[![JS][JavaScript]][JavaScript-url]
+<!--![CSS][css]-->
 
-- HTML | CSS | Javascript
+- Front-End Development
     - [My personal Website](https://github.com/Pr0fiLeRR/portfolio)
     - [Snake-Game](https://github.com/Pr0fiLeRR/snake-game)
     - [Rio de Janeiro JS Slider](https://github.com/Pr0fiLeRR/rj-slider)
@@ -85,13 +87,16 @@
 </div>
 
 <!-- MARKDOWN Links and Images -->
-[Sigma-badge]: https://img.shields.io/badge/Sigma-%CF%83-blue
+[Sigma-badge]: https://cdn.jsdelivr.net/gh/SigmaHQ/sigmahq.github.io@master/images/Sigma%20Official%20Badge.svg
 [Sigma-url]: https://sigmahq.io/docs/basics/rules.html
 
 [Kusto-badge]: https://img.shields.io/badge/Kusto-Query-red?logo=azure-data-explorer&style=flat-square
 [Kusto-url]: https://learn.microsoft.com/en-us/kusto/?view=microsoft-fabric
 
-[JavaScript-badge]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square
+[html]: https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
+<!--[css]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white -->
+
+[JavaScript]: https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E
 [JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 
