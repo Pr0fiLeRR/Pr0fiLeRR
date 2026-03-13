@@ -90,7 +90,7 @@
 [Sigma-badge]: https://cdn.jsdelivr.net/gh/SigmaHQ/sigmahq.github.io@master/images/Sigma%20Official%20Badge.svg
 [Sigma-url]: https://sigmahq.io/docs/basics/rules.html
 
-[Kusto-badge]: https://img.shields.io/badge/Kusto-Query-red?logo=azure-data-explorer&style=flat-square
+[Kusto-badge]: https://img.shields.io/badge/KQL-5C2D91?style=flat-square&logo=azure-devops&logoColor=white
 [Kusto-url]: https://learn.microsoft.com/en-us/kusto/?view=microsoft-fabric
 
 [html]: https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white
